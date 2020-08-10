@@ -2,7 +2,24 @@
 permalink: /about/
 title: "About"
 ---
+Victoria believes that empowering developers and architects in security tasks by helping with education will increase security level without increasing additional workload. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As a security expert with more than 14 years of experience, she's worked in different business areas challenging different security states thru a unique viewpoint by bringing humour sense. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Although Victoria passionated in all security areas, the most significant interest lies in Identity and access management, and DevSecOps. In her belief Zero Trust and a heavy focus on security in development by shifting it left are the way to go. 
+
+You can find her either working for Microsoft and helping customers or on a stage, where she shares security practices sometimes in an opinionated and humorous way. 
+
+When Victoria not occupied with security things, she is either in the mountains exploring beautiful Norway or driving her motorcycle as both are the biggest passions after the security. 
+
+
+<p align="center">
+  <img src="https://github.com/texnokot/texnokot.github.io/raw/master/assets/vic.jpeg" alt="Mountains are great!"/>
+</p>
+
+**Disclaimer:** Apparently, I need a disclaimer. I talk openly about everything; therefore, all views, opinions shared here are my own and not of my employer.
+
+**I heard badges are popular in nowadays… so I collected a few of them:**
+
+![](https://images.youracclaim.com/size/110x110/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png) ![](https://images.youracclaim.com/size/110x110/images/92e0618b-8002-4868-9e88-794a33aeb3b5/azure-developer-associate-600x600.png) ![](https://images.youracclaim.com/size/110x110/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png) ![](https://images.youracclaim.com/size/110x110/images/6c64c0f1-956a-4e0e-9c7e-d60307cea185/azure-devops-engineer-expert-600x600.png) ![](https://images.youracclaim.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png) ![](https://images.youracclaim.com/size/110x110/images/b605110d-6e65-483b-9f00-3f1055b35885/Microsoft-Certified-Trainer-2019-2020.png) ![](https://images.youracclaim.com/size/110x110/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png) ![](https://github.com/texnokot/texnokot.github.io/raw/master/assets/Data-Protection-Officer.jpg)
+
