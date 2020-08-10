@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal blog about security in a friendly style
 twitter_username: texnokot
 github_username: texnokot
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
