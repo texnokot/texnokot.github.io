@@ -14,7 +14,7 @@ When Victoria not occupied with security things, she is either in the mountains 
 
 
 <p align="center">
-  <img src="https://github.com/texnokot/texnokot.github.io/raw/master/assets/images/vic.jpeg" alt="Mountains are great!"/>
+  <img src="https://raw.githubusercontent.com/texnokot/texnokot.github.io/master/assets/images/vic.jpeg" alt="Mountains are great!"/>
 </p>
 
 **Disclaimer:** Apparently, I need a disclaimer. I talk openly about everything; therefore, all views, opinions shared here are my own and not of my employer.
